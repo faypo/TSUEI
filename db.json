@@ -1,0 +1,5 @@
+{
+    "goods": [
+      { "goods_id": 1, "local_name": "椰子油肥皂", "eng_name": "Coconut Castile Bar Soap", "amt": 210,  "capacity": 120 }
+    ]
+}
