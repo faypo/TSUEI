@@ -1,5 +1,28 @@
 {
     "goods": [
-      { "goods_id": 1, "local_name": "椰子油肥皂", "eng_name": "Coconut Castile Bar Soap", "amt": 210,  "capacity": 120 }
-    ]
+      { "id": 1, "local_name": "椰子油肥皂", "eng_name": "Coconut Castile Bar Soap", "amt": 210,  "capacity": 120 }
+    ],
+    "goods_intros":[
+      { "id": 1 , "goodsId": 1, "title":"溫和清潔", "article":"這款皂由純椰子油製成，非常溫和，適合敏感肌膚。它能夠溫和清潔皮膚，不會引起刺激或乾燥。", "flag": 1 },
+      { "id": 2 , "goodsId": 1, "title":"豐富泡沫", "article":"儘管沒有添加其他成分，這款皂仍能產生豐富的泡沫，讓使用者感受到舒適的清潔體驗。", "flag": 2 },
+      { "id": 3 , "goodsId": 1, "title":"無添加香料", "article":"不含精油和其他添加物，對於對香料過敏或不喜歡強烈香氣的人來說是一個好選擇。", "flag": 3 },
+      { "id": 4 , "ggoodsId": 1, "title":"適應不同水質", "article":"在硬水或海水中都能表現出色，不易被水質影響，是適合各種環境使用的理想選擇。", "flag": 4}
+    ],
+    "goods_imgs":[
+      { "id": 1 , "goodsId": 1, "img_url": "https://www.example.com/images/1.jpg" , "flag":"1" },
+      { "id": 2 , "goodsId": 1, "img_url": "https://www.example.com/images/2.jpg" , "flag":"2" },
+      { "id": 3 , "goodsId": 1, "img_url": "https://www.example.com/images/3.jpg" , "flag":"3" },
+      { "id": 4 , "goodsId": 1, "img_url": "https://www.example.com/images/4.jpg" , "flag":"4" }
+    ],
+    "users": []
+
 }
+
+
+
+
+
+
+
+
+
